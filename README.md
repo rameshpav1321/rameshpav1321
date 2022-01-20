@@ -1,5 +1,5 @@
-- 👋 Hi, I’m ramesh pavan pothamsetty
-- 👀 I’m a current computer science grad student at University at Bufffalo,SUNY
+- 👋 Hi, I’m ramesh pavan pothamsetty.
+- 👀 I’m a current computer science grad student at University at Bufffalo,SUNY.
 - 🌱 A little about me: A system admin in the previous chapter of my life, who started a new chapter to pursue his long standing dream of studying computer science.
      Interested and enthusiastic to take up new challenges to learn and grow along the way.
     
