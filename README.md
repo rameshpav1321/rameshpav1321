@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Capstone Project Management webapp for University at Buffalo**
 
-- 🌱 I’m currently pursing my master's in computer science @ **University at Buffalo,SUNY**
+- 🌱 I have graduated with Master's in computer science from **University at Buffalo,SUNY**
 
 - 👨‍💻 All of my projects are available at [https://rameshpav1321.github.io/project_my_portfolio/](https://rameshpav1321.github.io/project_my_portfolio/)
 
