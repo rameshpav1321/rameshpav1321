@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rameshpav1321&label=Profile%20views&color=0e75b6&style=flat" alt="rameshpav1321" /> </p>
 
-- 🔭 I’m currently working on **Capstone Project Management webapp for University at Buffalo**
+- 🔭 I’m currently working at **Californian Sesimic as Software Engineer Intern(Frontend)** to build their website.
 
 - 🌱 I have graduated with Master's in computer science from **University at Buffalo,SUNY**
 
 - 👨‍💻 All of my projects are available at [https://rameshpav1321.github.io/project_my_portfolio/](https://rameshpav1321.github.io/project_my_portfolio/)
 
-- 📫 How to reach me **rpothams@buffalo.edu**
+- 📫 How to reach me **rameshpavan.p@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
