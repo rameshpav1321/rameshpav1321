@@ -1,5 +1,7 @@
-<h1 align="center">Hello👋🏽, I'm Ramesh Pavan Pothamsetty</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+Ramesh+Pavan+Pothamsetty)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile!!)](https://git.io/typing-svg)
+
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'>, I'm Ramesh Pavan Pothamsetty</h1>
+
 <h3 align="center">Looking for full-time software engineer/full stack developer roles.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rameshpav1321&label=Profile%20views&color=0e75b6&style=flat" alt="rameshpav1321" /> </p>
