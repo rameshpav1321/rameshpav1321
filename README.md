@@ -2,15 +2,15 @@
 
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'>, I'm Ramesh Pavan Pothamsetty</h1>
 
-<h3 align="center">Looking for full-time software engineer/full stack developer roles.</h3>
+<h3 align="center">Software Engineer II at National Information Solutions Coop.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rameshpav1321&label=Profile%20views&color=0e75b6&style=flat" alt="rameshpav1321" /> </p>
 
-- 🔭 I’m currently working at **Californian Sesimic as Software Engineer Intern(Frontend)** to build their website.
+- 🔭 I’m currently working on developing and enhancing  **NISC's Outage Management System** within their Application and Platform Development Division.
 
 - 🌱 I have graduated with Master's in computer science from **University at Buffalo,SUNY**
 
-- 👨‍💻 All of my projects are available at [https://rameshpav1321.github.io/project_my_portfolio/](https://rameshpav1321.github.io/project_my_portfolio/)
+- 👨‍💻 My Porfolio: [https://rameshpav1321.github.io/project_my_portfolio/](https://rameshpav1321.github.io/project_my_portfolio/)
 
 - 📫 How to reach me **rameshpavan.p@outlook.com**
 
